@@ -1,6 +1,6 @@
 # Simple nix VM for just anything
 
-As described in this [post](https://jeancharles.quillet.org/posts/2023-01-16-Basic-nix-vm-for-just-anything.html)
+Fork of https://github.com/jecaro/simple-nix-vm for my own learning.
 
 Build with:
 
